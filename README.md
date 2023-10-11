@@ -1,9 +1,9 @@
 https://www.atlassian.com/git/tutorials/dotfiles
 
-nvim 0.9.2+
-nvchad
-tmux
-oh-my-posh
+nvim 0.9.2+  
+nvchad  
+tmux  
+oh-my-posh  
 
 ```
 curl -s https://ohmyposh.dev/install.sh | bash -s -- -d ~/bin
