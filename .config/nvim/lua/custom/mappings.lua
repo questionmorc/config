@@ -1,7 +1,5 @@
 local M = {}
 
-local M = {}
-
 M.dap = {
   plugin = true,
   n = {
